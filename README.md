@@ -1,6 +1,6 @@
 # Hi there, I'm Ferhat 👋
 
-## I'm a Computer Science engineer Student at ENSSAT in Lannion,France
+## I'm a Computer Science Engineer Student at ENSSAT in Lannion,France
 
 - 🔥 I try to improve my skills every day
 - 🌱 I’m looking to collaborate with other content creators
