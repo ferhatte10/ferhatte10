@@ -1,10 +1,15 @@
 # Hi there, I'm Ferhat 👋
 
-## I'm a Computer Science Engineer Student at ENSSAT in Lannion,France
+### Full-Stack Developer (Back-end lover)
 
+#### Skills: 
+Vue.js | SQL {SQL Server | SSIS} | Scripting (python) | Container {Docker | docker-compose} | NGINX reverse proxy
+
+- 🔭 Currently, I'm pursuing my IT engineering degree at ENSSAT as an apprentice.
 - 🔥 I try to improve my skills every day
-- 🌱 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn new technologies
+- 🥅 2024 Goals: Getting more into the cloud computing
+- 📫 Connect with me via GitHub or LinkedIn for a conversation!
+
 
 ---
 
@@ -28,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ferhatte10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ferhatsdn/)
