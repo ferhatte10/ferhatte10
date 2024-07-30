@@ -3,7 +3,7 @@
 ### Full-Stack Developer (Back-end lover)
 
 #### Skills: 
-Vue.js | SQL {SQL Server | SSIS} | Scripting (python) | Container {Docker | docker-compose} | NGINX reverse proxy
+Vue.js3/Nuxt3 | react.js/Next.js | SQL {SQL Server | SSIS} | Scripting (python) | Container {Docker | docker-compose} | NGINX reverse proxy
 
 - 🔭 Currently, I'm pursuing my IT engineering degree at ENSSAT as an apprentice.
 - 🔥 I try to improve my skills every day
