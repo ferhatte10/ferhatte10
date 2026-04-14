@@ -1,11 +1,11 @@
 # Hi there, I'm Ferhat 👋
 
-### Full-Stack Developer (Back-end lover)
+### Full-Stack Engineer (Back-end lover)
 
 #### Skills: 
-Vue.js3/Nuxt3 | react.js/Next.js | SQL {SQL Server | SSIS} | Scripting (python) | Container {Docker | docker-compose} | NGINX reverse proxy
+Svelte/SvelteKit | Node/Nest | Vue/Nuxt3 | React/Next | SQL {SQL Server | SSIS} | Scripting (python) | Container {Docker | docker-compose} | NGINX & Traefik reverse proxy
 
-- 🔭 Currently, I'm pursuing my IT engineering degree at ENSSAT as an apprentice.
+- 🔭 Currently, I'm JS Full Stack Software Engineer.
 - 🔥 I try to improve my skills every day
 - 🥅 2026 Goals: Getting more into the cloud computing
 - 📫 Connect with me via GitHub or LinkedIn for a conversation!
