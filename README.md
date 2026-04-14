@@ -7,7 +7,7 @@ Vue.js3/Nuxt3 | react.js/Next.js | SQL {SQL Server | SSIS} | Scripting (python) 
 
 - 🔭 Currently, I'm pursuing my IT engineering degree at ENSSAT as an apprentice.
 - 🔥 I try to improve my skills every day
-- 🥅 2024 Goals: Getting more into the cloud computing
+- 🥅 2026 Goals: Getting more into the cloud computing
 - 📫 Connect with me via GitHub or LinkedIn for a conversation!
 
 
