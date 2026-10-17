@@ -45,10 +45,10 @@ These run in production on the homelab. Their source repositories are private; I
 | Project | What it does | Stack |
 |---|---|---|
 | [**ferhatsn.fr**](https://ferhatsn.fr) | My portfolio, with an admin area behind SSO | SvelteKit, Drizzle, PostgreSQL, S3 |
-| [**Radar Logement**](https://appart-rennes.ferhatsn.fr) | Watches student housing listings (Crous, Fac-Habitat, ARPEJ) and sends email alerts | NestJS, SvelteKit, BullMQ, Redis, PostgreSQL |
+| **Radar Logement** | Watches student housing listings (Crous, Fac-Habitat, ARPEJ) and sends email alerts | NestJS, SvelteKit, BullMQ, Redis, PostgreSQL |
 | [**Magic Bakery**](https://magic-bakery.com) | Website for an artisan pastry business | SvelteKit, Drizzle, PostgreSQL, S3 |
-| [**auth.ferhatsn.fr**](https://auth.ferhatsn.fr) | Identity provider for all of the above | Keycloak, Keycloakify |
-| **Vigie** *(paused)* | DevSecOps tool: container image inventory and Trivy vulnerability scans, rendered as a 3D harbour scene. Being rebuilt for Kubernetes | NestJS, SvelteKit, Three.js, BullMQ |
+| **Auth server** | Identity provider for all of the above | Keycloak, Keycloakify |
+| **Vigie** | DevSecOps tool: container image inventory and Trivy vulnerability scans, rendered as a 3D harbour scene. Being rebuilt for Kubernetes | NestJS, SvelteKit, Three.js, BullMQ |
 
 <details>
 <summary><b>Earlier work (public repositories)</b></summary>
